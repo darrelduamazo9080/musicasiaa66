@@ -1,0 +1,5 @@
+baseURL = "https://musicaboom-cocoysa21.vercel.app"
+languageCode = "en-us"
+title = "Love Sheet Music USA 2021"
+theme = "hugo-theme-minos"
+
